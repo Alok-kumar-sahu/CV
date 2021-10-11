@@ -71,9 +71,7 @@ hr {
     left: 20%;
     
 }
-.mountain {
-    opacity: 0.5;
-}
+
 .intro {
     width: 30%;
     display: inline-block;
@@ -87,14 +85,20 @@ hr {
 }
 .designing-img {
     position: relative;
-    width: 7em;
+    width: 6em;
+    float: left;
+    margin-right: 30px;
+}
+.webd-img {
+    position: relative;
+    width: 6em;
     float: left;
     margin-right: 30px;
 }
 
 .editing-img {
     position: relative;
-    width: 7em;
+    width: 6em;
     float: right;
     margin-left: 30px;
 }
