@@ -90,6 +90,9 @@ hr {
      .intro {
          width: 60%;
      }
+     .contact-msg {
+         width: 50%;
+     }
  }
 .designing-img {
     position: relative;
