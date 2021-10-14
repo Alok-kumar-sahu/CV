@@ -59,7 +59,7 @@ hr {
   
 }
 .profile-img {
-    margin: 5%;
+    width: 20%;
 }
 .position {
     font-weight: normal;
@@ -73,7 +73,7 @@ hr {
 }
 
 .intro {
-    width: 30%;
+    width: 50%;
     display: inline-block;
 }
 .skill-row {
@@ -83,8 +83,11 @@ hr {
     text-align: left;
 }
 
- @media (max-width: 800px ) {
+@media (max-width: 800px ) {
      .skill-row {
+         width: 60%;
+     }
+     .intro {
          width: 60%;
      }
  }
