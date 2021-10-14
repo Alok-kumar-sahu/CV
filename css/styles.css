@@ -84,14 +84,8 @@ hr {
 }
 
 @media (max-width: 800px ) {
-     .skill-row {
+     .skill-row , .intro , .contact-msg{
          width: 60%;
-     }
-     .intro {
-         width: 60%;
-     }
-     .contact-msg {
-         width: 50%;
      }
  }
 .designing-img {
