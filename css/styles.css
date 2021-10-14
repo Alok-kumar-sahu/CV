@@ -81,8 +81,13 @@ hr {
     width: 50%;
     margin: 60px auto 60px auto;
     text-align: left;
-
 }
+
+ @media (max-width: 800px ) {
+     .skill-row {
+         width: 60%;
+     }
+ }
 .designing-img {
     position: relative;
     width: 6em;
@@ -154,3 +159,5 @@ hr {
     border-radius: 15px;
     text-decoration: none;
  }
+
+
